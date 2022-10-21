@@ -5,7 +5,6 @@ import axa from "../assets/img/portfolio/axa.jpg"
 import axa2 from "../assets/img/portfolio/axa2.jpg"
 import bumper from "../assets/img/portfolio/bumiper.jpg"
 import runner from "../assets/img/portfolio/runner.jpg"
-import clown1 from "../assets/img/portfolio/clown1.jpg"
 import clown2 from "../assets/img/portfolio/clown2.jpg"
 import clown3 from "../assets/img/portfolio/clown3.jpg"
 import clown4 from "../assets/img/portfolio/clown4.jpg"
@@ -59,9 +58,6 @@ const PortfolioDetail = () => {
         </div>
         <div className='w-[150px] lg:w-[200px]  overflow-hidden hover:scale-95 transition-all ease-in-out duration-200 rounded-md group'>
           <img src={tnd} alt="" className='group-hover:scale-125 transition-all ease-in-out duration-200 h-full'/>
-        </div>
-        <div className='w-[150px] lg:w-[200px]  overflow-hidden hover:scale-95 transition-all ease-in-out duration-200 rounded-md group'>
-          <img src={clown1} alt="" className='group-hover:scale-125 transition-all ease-in-out duration-200 h-full'/>
         </div>
         <div className='w-[150px] lg:w-[200px]  overflow-hidden hover:scale-95 transition-all ease-in-out duration-200 rounded-md group'>
           <img src={clown2} alt="" className='group-hover:scale-125 transition-all ease-in-out duration-200 h-full'/>
