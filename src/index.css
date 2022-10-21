@@ -1,13 +1,14 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.colored-toast.swal2-icon-success {
+  background-color: #ffc256 !important;
+  color: white;
+}
+::-webkit-scrollbar{
+  @apply w-[8px] bg-secondary
+}
+::-webkit-scrollbar-thumb{
+  @apply bg-icon backdrop-blur-xl rounded-full
 }
