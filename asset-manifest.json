@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bf4a7d6a.css",
+    "main.js": "/static/js/main.4f062907.js",
+    "static/js/787.980d51e1.chunk.js": "/static/js/787.980d51e1.chunk.js",
+    "static/media/nasi.jpg": "/static/media/nasi.9f18f32e430299d6da00.jpg",
+    "static/media/clown5.jpg": "/static/media/clown5.4bd436595a63fbec0a87.jpg",
+    "static/media/spal.png": "/static/media/spal.ca34232d6a50a4542335.png",
+    "static/media/clown1.jpg": "/static/media/clown1.a3f735bfbc5a23d95424.jpg",
+    "static/media/clown2.jpg": "/static/media/clown2.a3f735bfbc5a23d95424.jpg",
+    "static/media/tnd.jpg": "/static/media/tnd.3e411642c2e2022a5edd.jpg",
+    "static/media/bj.jpg": "/static/media/bj.f01a36f2c80d8abfe256.jpg",
+    "static/media/bumiper.jpg": "/static/media/bumiper.c1e4a1a4714e51313f2b.jpg",
+    "static/media/runner.jpg": "/static/media/runner.bcea7f2ba501ff4e4410.jpg",
+    "static/media/clown3.jpg": "/static/media/clown3.3787e70f9ad79101bb31.jpg",
+    "static/media/clown4.jpg": "/static/media/clown4.4b41ba8475bd71c06022.jpg",
+    "static/media/axa2.jpg": "/static/media/axa2.44cb7d5d7f83ef9a659e.jpg",
+    "static/media/heroicon.png": "/static/media/heroicon.56d7cd8c1a7f4dce3803.png",
+    "static/media/axa.jpg": "/static/media/axa.59188209601a9313c819.jpg",
+    "static/media/hero.png": "/static/media/hero.d8716f9aedcbcb92a5c1.png",
+    "static/media/loading.gif": "/static/media/loading.bcfd4ea180bbd21923bb.gif",
+    "index.html": "/index.html",
+    "main.bf4a7d6a.css.map": "/static/css/main.bf4a7d6a.css.map",
+    "main.4f062907.js.map": "/static/js/main.4f062907.js.map",
+    "787.980d51e1.chunk.js.map": "/static/js/787.980d51e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf4a7d6a.css",
+    "static/js/main.4f062907.js"
+  ]
+}
